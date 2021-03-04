@@ -1,0 +1,7 @@
+com\meritis\kata\model\Operation.class
+com\meritis\kata\DAO\CompteDAO.class
+com\meritis\kata\KataApplication.class
+com\meritis\kata\controller\CompteBanquaireControler.class
+com\meritis\kata\service\CompteService.class
+com\meritis\kata\DAO\OperationDAO.class
+com\meritis\kata\model\Compte.class
